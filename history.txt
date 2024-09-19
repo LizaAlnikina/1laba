@@ -1,0 +1,32 @@
+Copy con текстовый документ
+Copy con f
+текст
+укауеуенп
+впрпррнн
+цуцккуцк
+фвфафвафваавафв
+fhnfhfyhfyhhy
+cbcb
+ettytyr
+aaaaaaa
+type f.txt
+mkdir f.txt
+Copy con f.txt
+aaaa
+No
+Copy con f.txt
+1
+Yes
+5
+8
+2
+1
+1111
+air
+car
+window
+
+sort f.txt
+sort f.txt >f2.txt
+copy f2.txt
+doskey /history > history.txt
